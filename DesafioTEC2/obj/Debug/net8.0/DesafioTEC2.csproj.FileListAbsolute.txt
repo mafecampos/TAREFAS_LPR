@@ -1,0 +1,15 @@
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\bin\Debug\net8.0\DesafioTEC2.exe
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\bin\Debug\net8.0\DesafioTEC2.deps.json
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\bin\Debug\net8.0\DesafioTEC2.runtimeconfig.json
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\bin\Debug\net8.0\DesafioTEC2.dll
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\bin\Debug\net8.0\DesafioTEC2.pdb
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\obj\Debug\net8.0\DesafioTEC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\obj\Debug\net8.0\DesafioTEC2.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\obj\Debug\net8.0\DesafioTEC2.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\obj\Debug\net8.0\DesafioTEC2.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\obj\Debug\net8.0\DesafioTEC2.sourcelink.json
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\obj\Debug\net8.0\DesafioTEC2.dll
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\obj\Debug\net8.0\refint\DesafioTEC2.dll
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\obj\Debug\net8.0\DesafioTEC2.pdb
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\obj\Debug\net8.0\DesafioTEC2.genruntimeconfig.cache
+C:\Users\grego\OneDrive\Área de Trabalho\TAREFAS_LPR\DesafioTEC2\obj\Debug\net8.0\ref\DesafioTEC2.dll
